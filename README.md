@@ -16,7 +16,7 @@
     <li>assets</li>
     <li>datasets</li>
     <li>notebooks</li>
-        <p>1. cyberbullying_EDA.ipynb</p>
+        <p>1. cyberbullying_npl_EDA.ipynb</p>
     <li>models</li>
         <p>model : </p>
     <li>deployment</li>
@@ -24,4 +24,4 @@
 <hr>
 <p>Horacio Morales González<p>
 <a href="https://twitter.com/LachoMorales"><img src="https://img.shields.io/twitter/follow/LachoMorales?style=social" alt="Twitter: LachoMorales"/></a>
-<a href="https://www.linkedin.com/in/hmorales1970/"><img scr="https://img.shields.io/badge/-hmorales1970-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin: hmorales1970"/></a>
+<a href="https://www.linkedin.com/in/hmorales1970/"><img scr="../assets/-hmorales1970-blue.svg" alt="Linkedin: hmorales1970"/></a>
