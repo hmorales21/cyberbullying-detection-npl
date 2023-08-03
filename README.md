@@ -1,4 +1,4 @@
-# Ciberbullying Detection
+# Cyberbullying Detection
 ## Text Classification Project
 
 ## Description:
@@ -11,20 +11,19 @@ You are provided with twitter_parsed_tweets: you have to perform a step-by-step 
 Target Variable : oh-label
 Metric - **F1-Score**
 
-<hr>
-
 ## Project structure
 ### Project 7
-    1. assets
-    2. datasets
-    3. notebooks
-        - cyberbullying_npl_EDA.ipynb
-        - cyberbullying_npl_preprocessing.ipynb
-    4. models
-        -
-    5. deployment
 
-<hr>
+1. assets
+2. datasets
+3. notebooks
+    - cyberbullying_npl_EDA.ipynb
+    - cyberbullying_npl_preprocessing.ipynb
+4. models
+    -
+
+
+
 Horacio Morales González
 <a href="https://twitter.com/LachoMorales"><img src="https://img.shields.io/twitter/follow/LachoMorales?style=social" alt="Twitter: LachoMorales"/></a>
 <a href="https://www.linkedin.com/in/hmorales1970/"><img scr="../assets/-hmorales1970-blue.svg" alt="Linkedin: hmorales1970"/></a>
